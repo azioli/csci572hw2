@@ -1,0 +1,44 @@
+Name: Guanyu Lu
+USC ID: 6093827787
+News site crawled: Washington_Post
+
+Fetch Statistics
+================
+# fetches attempted:20000
+# fetches succeeded:16096
+# fetches failed or aborted:3904
+
+Outgoing URLs:
+==============
+Total URLs extracted:814762
+# unique URLs extracted:135821
+# unique URLs within News Site:64978
+# unique URLs outside News Site:70843
+
+Status Codes:
+=============
+200 OK:16096
+301 Moved Permanently:756
+400 Bad Request:22
+302 Found:2183
+403 Forbidden:10
+502 Bad Gateway:7
+404 Not Found:926
+
+File Sizes:
+===========
+>= 1MB:63
+< 1KB:30
+1KB ~ <10KB:333
+100KB ~ <1MB:12546
+10KB ~ <100KB:3124
+
+Content Types:
+==============
+image/png:343
+text/html:14540
+image/jpeg:1025
+application/pdf:30
+image/gif:95
+image/x-icon:4
+image/svg+xml:39
